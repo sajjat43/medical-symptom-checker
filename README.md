@@ -1,4 +1,4 @@
-# DHILab Medical Symptom Checker
+# DHILab Medical Symptom Checker React Js
 
 ![GUI](https://img.shields.io/badge/GUI-USWDS_2.7.1-0B1013)
 ![Language](https://img.shields.io/badge/Language-JavaScript-026300)
